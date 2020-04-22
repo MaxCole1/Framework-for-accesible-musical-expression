@@ -1,0 +1,12 @@
+#N canvas 190 39 450 300 10;
+#X obj -542 -2584 *~ 1;
+#X obj -543 -2612 osc~ 1;
+#X obj -543 -2639 inlet;
+#X obj -453 -2641 inlet;
+#X obj -543 -2544 outlet~;
+#X text -453 -2660 LFO Depth;
+#X text -544 -2659 LFO Rate;
+#X connect 0 0 4 0;
+#X connect 1 0 0 0;
+#X connect 2 0 1 0;
+#X connect 3 0 0 1;
