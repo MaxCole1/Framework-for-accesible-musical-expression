@@ -1,5 +1,5 @@
 # Framework-for-accesible-musical-expression
-Source code for final year project titled "Using interactive machine learning to create an interface independent framework for accessible musical expression"
+Source code for final year project titled "Using interactive machine learning to create an interface independent framework for accessible musical expression" by Max Cole: 17025115.
 
 This repo features 4 seperate folders:
   - Leap motion handler files
@@ -7,3 +7,4 @@ This repo features 4 seperate folders:
   - Wekinator models
   - Puredata patches
 
+These feature only code I have written and do not include libraries or binaries.
