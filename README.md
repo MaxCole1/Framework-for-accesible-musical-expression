@@ -7,4 +7,4 @@ This repo features 4 seperate folders:
   - Wekinator models
   - Puredata patches
 
-These feature only code I have produced and do not include libraries or binaries.
+These feature only code I have produced and do not include libraries, binaries or samples.
